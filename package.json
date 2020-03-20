@@ -1,5 +1,5 @@
 {
-  "name": "Ether wallet",
+  "name": "Ether_wallet",
   "version": "1.0.0",
   "description": "Deposit funds into your smart contract, transfer from your smart contract to other accounts.",
   "main": "truffle-config.js",
